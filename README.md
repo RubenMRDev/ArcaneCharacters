@@ -1,6 +1,10 @@
-# Arcane Wiki
+# Arcane Characters 
 
 A React-based web application that showcases characters from the Arcane universe. This interactive wiki allows users to explore and learn about various characters from the show through an intuitive and visually appealing interface.
+
+## Live Preview
+
+Check out the live demo of the Arcane Wiki: [Live Demo](https://arcane-characters-three.vercel.app/)
 
 ## Technologies Used
 
