@@ -1,0 +1,13 @@
+.app-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  color: #fff;
+}
+
+.app-header h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  background: linear-gradient(45deg, #9b4dca, #61dafb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,364 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Jinx",
+      "fullName": "Powder",
+      "role": "Protagonist",
+      "description": "A manic and impulsive criminal from Zaun, Jinx lives to wreak havoc without care for the consequences.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dhpgmzz-05892703-afb4-4f64-8430-4e6aca997317.png/v1/fill/w_353,h_1276/arcane__jinx_render_by_fdr1027_dhpgmzz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI3NiIsInBhdGgiOiJcL2ZcLzdhNWI1YzY3LWRlZTYtNDU2Yi04NjNiLTc1OTMwODUyYzcxNVwvZGhwZ216ei0wNTg5MjcwMy1hZmI0LTRmNjQtODQzMC00ZTZhY2E5OTczMTcucG5nIiwid2lkdGgiOiI8PTM1MyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.iDwM5twQtxeyM9Dw37jwvmwO7n80hMTLW9gZraW8c0E",
+      "background": "Originally named Powder, she is Vi's younger sister who struggled with self-doubt before a tragic accident led to her transformation into Jinx."
+    },
+    {
+      "id": 2,
+      "name": "Vi",
+      "fullName": "Violet",
+      "role": "Protagonist",
+      "description": "A hotheaded enforcer from Zaun, Vi fights to protect her sister and her home from those who would harm them.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dhppae4-1c8ce33e-b7e4-4aa0-8b52-d1ed48ad213d.png/v1/fill/w_261,h_895/arcane__vi_render_2_by_fdr1027_dhppae4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODk1IiwicGF0aCI6IlwvZlwvN2E1YjVjNjctZGVlNi00NTZiLTg2M2ItNzU5MzA4NTJjNzE1XC9kaHBwYWU0LTFjOGNlMzNlLWI3ZTQtNGFhMC04YjUyLWQxZWQ0OGFkMjEzZC5wbmciLCJ3aWR0aCI6Ijw9MjYxIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Kv8AUEWAlfWQPswU6t56IfR_oSlkqkEC9C66NovL2m0",
+      "background": "A former street kid from Zaun, Vi grew up alongside her sister Powder before being imprisoned in Stillwater prison."
+    },
+    {
+      "id": 3,
+      "name": "Caitlyn",
+      "fullName": "Caitlyn Kiramman",
+      "role": "Protagonist",
+      "description": "The intelligent and determined sheriff of Piltover, seeking justice and truth above all else.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dhpgpxu-3c9fbc73-5f9d-43e1-af39-de4b4eca3da0.png/v1/fill/w_232,h_911/arcane__caitlyn_render_by_fdr1027_dhpgpxu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTExIiwicGF0aCI6IlwvZlwvN2E1YjVjNjctZGVlNi00NTZiLTg2M2ItNzU5MzA4NTJjNzE1XC9kaHBncHh1LTNjOWZiYzczLTVmOWQtNDNlMS1hZjM5LWRlNGI0ZWNhM2RhMC5wbmciLCJ3aWR0aCI6Ijw9MjMyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XbHvEqr1Fhi5xrYxEeTUhQv1y8tyBewd-RzQmRGO49s",
+      "background": "Born to the wealthy Kiramman family, Caitlyn chose to become an enforcer to pursue justice on her own terms."
+    },
+    {
+      "id": 4,
+      "name": "Silco",
+      "fullName": "Unknown",
+      "role": "Antagonist",
+      "description": "The ambitious and ruthless leader of Zaun's underground, seeking independence for his people at any cost.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dhpgo9m-62ea4694-cdab-40fe-abdd-f02172cb5677.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdhNWI1YzY3LWRlZTYtNDU2Yi04NjNiLTc1OTMwODUyYzcxNVwvZGhwZ285bS02MmVhNDY5NC1jZGFiLTQwZmUtYWJkZC1mMDIxNzJjYjU2NzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0YdrS_5qybJVdCBgvoM5FCpF6MDFOM0sb6HD8_vt2d4",
+      "background": "A former partner of Vander, Silco rose to power in Zaun through violence and the production of Shimmer."
+    },
+    {
+      "id": 5,
+      "name": "Jayce",
+      "fullName": "Jayce Talis",
+      "role": "Secondary Character",
+      "description": "A brilliant inventor who discovers how to harness magic through science, revolutionizing Piltover.",
+      "image": "https://res.cloudinary.com/doy4x4chv/image/upload/v1741299293/jayceFullBody_zkdd7g.webp",
+      "background": "A talented scientist who partners with Viktor to develop Hextech technology, changing the future of Piltover."
+    },
+    {
+      "id": 6,
+      "name": "Viktor",
+      "fullName": "Viktor",
+      "role": "Protagonist",
+      "description": "A brilliant scientist from Zaun who dreams of using technology to help humanity evolve beyond its limitations.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/diei243-b2e79cde-5735-4215-9656-bd698f281e98.png/v1/fit/w_407,h_1481/arcane__viktor_render_by_fdr1027_diei243-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ4MSIsInBhdGgiOiJcL2ZcLzdhNWI1YzY3LWRlZTYtNDU2Yi04NjNiLTc1OTMwODUyYzcxNVwvZGllaTI0My1iMmU3OWNkZS01NzM1LTQyMTUtOTY1Ni1iZDY5OGYyODFlOTgucG5nIiwid2lkdGgiOiI8PTQwNyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4nPMG7LzSW_3e8NRgPnBtWMG3GnWzJiliGLv_2CWMF8",
+      "background": "Born in the undercity of Zaun, Viktor's determination and genius led him to Piltover's academy where he partnered with Jayce to revolutionize Hextech technology."
+    },
+    {
+      "id": 7,
+      "name": "Ekko",
+      "fullName": "Unknown",
+      "role": "Secondary Character",
+      "description": "A young genius inventor and leader of the Firelights, fighting to protect Zaun from both Piltover's oppression and Silco's influence.",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a5b5c67-dee6-456b-863b-75930852c715/dhpgn8t-b82545c5-feb4-41ab-979b-d4647ced3617.png/v1/fit/w_529,h_909/arcane__ekko_render_by_fdr1027_dhpgn8t-375w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA5IiwicGF0aCI6IlwvZlwvN2E1YjVjNjctZGVlNi00NTZiLTg2M2ItNzU5MzA4NTJjNzE1XC9kaHBnbjh0LWI4MjU0NWM1LWZlYjQtNDFhYi05NzliLWQ0NjQ3Y2VkMzYxNy5wbmciLCJ3aWR0aCI6Ijw9NTI5In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0u1-rIhQD82I5KAJUv4bL123t7YyuASzsy-KZv9A0C4",
+      "background": "Once a child prodigy from the lanes of Zaun, Ekko grew up to become a revolutionary leader, using his inventions to defend his people."
+    },
+    {
+      "id": 8,
+      "name": "Vander",
+      "fullName": "Vander",
+      "role": "Secondary Character",
+      "description": "Known as the Hound of the Underground, Vander is a former revolutionary who became a protector of Zaun's people.",
+      "image": "https://static.wikia.nocookie.net/p__/images/d/d7/VanderTransparent.png/revision/latest?cb=20241130210226&path-prefix=protagonist",
+      "background": "After leading a failed rebellion against Piltover, Vander chose peace and became a father figure to Vi and Powder, running a bar while maintaining order in the lanes."
+    },
+    {
+      "id": 9,
+      "name": "Mel",
+      "fullName": "Mel Medarda",
+      "role": "Supporting Character",
+      "description": "A cunning politician and member of Piltover's council, using her influence to shape the city's future.",
+      "image": "https://www.pngmart.com/files/22/Mel-Arcane-PNG-Picture.png",
+      "background": "Coming from the powerful Medarda family of Noxus, Mel navigates Piltover's political landscape while pursuing her own ambitions and vision for the city."
+    },
+    {
+      "id": 10,
+      "name": "Sevika",
+      "fullName": "Unknown",
+      "role": "Antagonist",
+      "description": "Silco's right-hand enforcer, loyal to his vision of an independent Zaun.",
+      "image": "https://www.pngmart.com/files/22/Sevika-Arcane-PNG-Transparent.png",
+      "background": "A former follower of Vander who switched allegiance to Silco, Sevika enforces his will in the lanes of Zaun with unwavering dedication."
+    },
+    {
+      "id": 11,
+      "name": "Heimerdinger",
+      "fullName": "Cecil B. Heimerdinger",
+      "role": "Secondary Character",
+      "description": "A brilliant yordle scientist and founding member of the Piltover Council, known for his cautious approach to technological advancement.",
+      "image": "https://www.pngmart.com/files/22/Heimerdinger-Arcane-PNG-Transparent.png",
+      "background": "Having lived for hundreds of years, Heimerdinger helped establish Piltover's technological supremacy, though his conservative views on progress often put him at odds with younger innovators."
+    },
+    {
+      "id": 12,
+      "name": "Marcus",
+      "fullName": "Marcus Medarda",
+      "role": "Secondary Character",
+      "description": "The conflicted Sheriff of Piltover who becomes entangled in Silco's web of corruption.",
+      "image": "https://www.pngmart.com/files/22/Marcus-Arcane-PNG-Picture.png",
+      "background": "Rising through the ranks of enforcement, Marcus's compromises with Zaun's criminal elements eventually lead to his moral downfall."
+    },
+    {
+      "id": 13,
+      "name": "Ambessa",
+      "fullName": "Ambessa Medarda",
+      "role": "Secondary Character",
+      "description": "The formidable matriarch of House Medarda and Mel's mother, known for her ruthless military prowess in Noxus.",
+      "image": "https://www.pngmart.com/files/22/Ambessa-Medarda-Arcane-PNG.png",
+      "background": "A powerful Noxian warlord who arrives in Piltover to protect her family's interests and influence the city's political landscape."
+    },
+    {
+      "id": 14,
+      "name": "Finn",
+      "fullName": "Finn Dangerous",
+      "role": "Antagonist",
+      "description": "A ruthless Zaunite chembaron who controls a significant portion of the undercity's criminal enterprises.",
+      "image": "https://www.pngmart.com/files/22/Finn-Arcane-PNG-Image.png",
+      "background": "Rising to power through the shimmer trade, Finn maintains an uneasy alliance with other undercity powers while pursuing his own ambitions."
+    },
+    {
+      "id": 15,
+      "name": "Sky",
+      "fullName": "Sky Young",
+      "role": "Supporting Character",
+      "description": "A dedicated research assistant at the Academy who harbors deep admiration for Viktor.",
+      "image": "https://www.pngmart.com/files/22/Sky-Young-Arcane-PNG-Picture.png",
+      "background": "A brilliant young scientist whose devotion to her work and Viktor ultimately leads to tragedy."
+    },
+    {
+      "id": 16,
+      "name": "Bolbok",
+      "fullName": "Professor Bolbok",
+      "role": "Supporting Character",
+      "description": "A respected professor at the Academy of Piltover, known for his skepticism of new technologies.",
+      "image": "https://www.pngmart.com/files/22/Professor-Bolbok-Arcane-PNG.png",
+      "background": "An established academic who initially opposes Jayce's research but later becomes an advocate for responsible innovation."
+    },
+    {
+      "id": 17,
+      "name": "Grayson",
+      "fullName": "Sheriff Grayson",
+      "role": "Secondary Character",
+      "description": "The former Sheriff of Piltover who maintained a delicate peace between the upper and lower cities.",
+      "image": "https://www.pngmart.com/files/22/Sheriff-Grayson-Arcane-PNG.png",
+      "background": "A principled enforcer who worked with Vander to maintain stability until her untimely death marked a turning point in Piltover-Zaun relations."
+    },
+    {
+      "id": 18,
+      "name": "Mylo",
+      "fullName": "Mylo",
+      "role": "Supporting Character",
+      "description": "A street-smart member of Vander's adopted family who often clashed with young Powder.",
+      "image": "https://www.pngmart.com/files/22/Mylo-Arcane-PNG-Picture.png",
+      "background": "One of Vi's closest friends and fellow orphan, whose skepticism of Powder's abilities would have lasting consequences."
+    },
+    {
+      "id": 19,
+      "name": "Claggor",
+      "fullName": "Claggor",
+      "role": "Supporting Character",
+      "description": "The strong, silent member of Vander's adopted family known for his protective nature.",
+      "image": "https://www.pngmart.com/files/22/Claggor-Arcane-PNG-Transparent.png",
+      "background": "A loyal friend to Vi and the others, whose strength and reliability made him an essential part of their family."
+    },
+    {
+      "id": 20,
+      "name": "Singed",
+      "fullName": "Unknown",
+      "role": "Antagonist",
+      "description": "A brilliant but amoral scientist whose experiments push the boundaries of ethics and humanity.",
+      "image": "https://www.pngmart.com/files/22/Singed-Arcane-PNG-Picture.png",
+      "background": "Working in the shadows of Zaun, Singed's revolutionary but horrific experiments in chemical engineering would shape the future of both cities."
+    },
+    {
+      "id": 21,
+      "name": "Shoola",
+      "fullName": "Councilor Shoola",
+      "role": "Secondary Character",
+      "description": "A veteran member of the Piltover Council known for her diplomatic approach to governance.",
+      "image": "https://www.pngmart.com/files/22/Councilor-Shoola-Arcane-PNG.png",
+      "background": "A seasoned politician who helps maintain balance in the Council while navigating the city's complex political landscape."
+    },
+    {
+      "id": 22,
+      "name": "Hoskel",
+      "fullName": "Councilor Hoskel",
+      "role": "Secondary Character",
+      "description": "A conservative member of the Piltover Council who prioritizes tradition and stability.",
+      "image": "https://www.pngmart.com/files/22/Councilor-Hoskel-Arcane-PNG.png",
+      "background": "A wealthy merchant-turned-politician who represents the old guard of Piltover's elite."
+    },
+    {
+      "id": 23,
+      "name": "Salo",
+      "fullName": "Councilor Salo",
+      "role": "Secondary Character",
+      "description": "An influential member of the Piltover Council with strong ties to the merchant clans.",
+      "image": "https://www.pngmart.com/files/22/Councilor-Salo-Arcane-PNG.png",
+      "background": "A shrewd politician who carefully weighs progress against tradition in Council decisions."
+    },
+    {
+      "id": 24,
+      "name": "Deckard",
+      "fullName": "Deckard",
+      "role": "Antagonist",
+      "description": "A violent enforcer for Silco who becomes one of the first test subjects for Shimmer.",
+      "image": "https://www.pngmart.com/files/22/Deckard-Arcane-PNG.png",
+      "background": "A street thug whose transformation by Shimmer demonstrates the drug's horrific effects on the human body."
+    },
+    {
+      "id": 25,
+      "name": "Chuck",
+      "fullName": "Chuck",
+      "role": "Supporting Character",
+      "description": "The friendly bartender at The Last Drop who serves as Vander's loyal assistant.",
+      "image": "https://www.pngmart.com/files/22/Chuck-Arcane-PNG.png",
+      "background": "A fixture of the undercity community who helps maintain The Last Drop as a neutral ground in Zaun."
+    },
+    {
+      "id": 26,
+      "name": "Babette",
+      "fullName": "Babette",
+      "role": "Supporting Character",
+      "description": "A young member of the Firelights who follows Ekko's leadership.",
+      "image": "https://www.pngmart.com/files/22/Babette-Arcane-PNG.png",
+      "background": "One of the many young Zaunites who found purpose and family within the Firelights movement."
+    },
+    {
+      "id": 27,
+      "name": "Rio",
+      "fullName": "Rio",
+      "role": "Supporting Character",
+      "description": "A mysterious creature used in Singed's experiments, symbolizing the cost of progress.",
+      "image": "https://www.pngmart.com/files/22/Rio-Arcane-PNG.png",
+      "background": "A being whose suffering at the hands of Singed's experiments represents the dark side of scientific advancement."
+    },
+    {
+      "id": 28,
+      "name": "Elora",
+      "fullName": "Elora",
+      "role": "Supporting Character",
+      "description": "A skilled medic working in the undercity, treating victims of violence and Shimmer addiction.",
+      "image": "https://www.pngmart.com/files/22/Elora-Arcane-PNG.png",
+      "background": "A compassionate healer who witnesses firsthand the devastating effects of the conflict between Piltover and Zaun."
+    },
+    {
+      "id": 29,
+      "name": "Theo",
+      "fullName": "Councilor Theo",
+      "role": "Secondary Character",
+      "description": "A progressive member of the Piltover Council who supports technological advancement.",
+      "image": "https://www.pngmart.com/files/22/Councilor-Theo-Arcane-PNG.png",
+      "background": "An advocate for change who sees Hextech as the key to Piltover's continued prosperity."
+    },
+    {
+      "id": 30,
+      "name": "Vern",
+      "fullName": "Vern",
+      "role": "Supporting Character",
+      "description": "A chemtech engineer working in Zaun's underground laboratories.",
+      "image": "https://www.pngmart.com/files/22/Vern-Arcane-PNG.png",
+      "background": "A brilliant but morally ambiguous scientist who contributes to the development of dangerous technologies."
+    },
+    {
+      "id": 31,
+      "name": "Hope",
+      "fullName": "Hope",
+      "role": "Supporting Character",
+      "description": "A young refugee who finds sanctuary with the Firelights.",
+      "image": "https://www.pngmart.com/files/22/Hope-Arcane-PNG.png",
+      "background": "A survivor of Zaun's harsh conditions who represents the potential for a better future."
+    },
+    {
+      "id": 32,
+      "name": "Finn's Enforcer",
+      "fullName": "Unknown",
+      "role": "Antagonist",
+      "description": "A brutal enforcer working for Finn, known for maintaining order through violence.",
+      "image": "https://www.pngmart.com/files/22/Finns-Enforcer-Arcane-PNG.png",
+      "background": "A feared figure in the undercity who rose through the ranks of Zaun's criminal hierarchy."
+    },
+    {
+      "id": 33,
+      "name": "Silco's Doctor",
+      "fullName": "Unknown",
+      "role": "Supporting Character",
+      "description": "A medical professional who assists Silco in his Shimmer operations.",
+      "image": "https://www.pngmart.com/files/22/Silcos-Doctor-Arcane-PNG.png",
+      "background": "A qualified physician who chose to use their skills in service of Zaun's criminal enterprises."
+    },
+    {
+      "id": 34,
+      "name": "Marcus's Daughter",
+      "fullName": "Ren",
+      "role": "Supporting Character",
+      "description": "The young daughter of Sheriff Marcus, whose existence influences his difficult choices.",
+      "image": "https://www.pngmart.com/files/22/Ren-Arcane-PNG.png",
+      "background": "An innocent child whose future her father tries to protect through increasingly compromised means."
+    },
+    {
+      "id": 35,
+      "name": "Councilor Brightmoor",
+      "fullName": "Edward Brightmoor",
+      "role": "Secondary Character",
+      "description": "An elderly member of the Piltover Council known for his conservative views.",
+      "image": "https://www.pngmart.com/files/22/Councilor-Brightmoor-Arcane-PNG.png",
+      "background": "A long-serving councilor who represents the traditional values of Piltover's established families."
+    },
+    {
+      "id": 36,
+      "name": "Silco's Lieutenant",
+      "fullName": "Unknown",
+      "role": "Antagonist",
+      "description": "A loyal officer in Silco's organization who helps coordinate his operations.",
+      "image": "https://www.pngmart.com/files/22/Silcos-Lieutenant-Arcane-PNG.png",
+      "background": "A capable strategist who helps maintain Silco's control over Zaun's criminal enterprises."
+    },
+    {
+      "id": 37,
+      "name": "Powder's Mother",
+      "fullName": "Unknown",
+      "role": "Supporting Character",
+      "description": "Vi and Powder's biological mother who died during the failed rebellion against Piltover.",
+      "image": "https://www.pngmart.com/files/22/Powders-Mother-Arcane-PNG.png",
+      "background": "A brave woman who fought alongside Vander in the uprising, her death deeply impacted her daughters' lives."
+    },
+    {
+      "id": 38,
+      "name": "Benzo",
+      "fullName": "Benzo",
+      "role": "Supporting Character",
+      "description": "A respected merchant in the lanes who works closely with Vander.",
+      "image": "https://www.pngmart.com/files/22/Benzo-Arcane-PNG.png",
+      "background": "A trusted figure in Zaun's community who helps maintain the delicate balance between the upper and lower cities."
+    },
+    {
+      "id": 39,
+      "name": "Silco's Chemist",
+      "fullName": "Unknown",
+      "role": "Supporting Character",
+      "description": "A skilled chemist working in Silco's Shimmer production facilities.",
+      "image": "https://www.pngmart.com/files/22/Silcos-Chemist-Arcane-PNG.png",
+      "background": "A technical expert whose knowledge helps perfect the Shimmer formula, contributing to its widespread impact on Zaun."
+    },
+    {
+      "id": 40,
+      "name": "Young Viktor",
+      "fullName": "Viktor",
+      "role": "Supporting Character",
+      "description": "The childhood version of Viktor, showing his early struggles with disability and his determination to overcome it.",
+      "image": "https://www.pngmart.com/files/22/Young-Viktor-Arcane-PNG.png",
+      "background": "A brilliant child from the undercity whose early experiences with illness and limitation shaped his future aspirations."
+    }
+  ]
+}

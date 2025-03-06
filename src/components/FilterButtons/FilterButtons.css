@@ -1,0 +1,37 @@
+.filter-buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.filter-button {
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.filter-button:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.filter-button.active {
+  background: #9b4dca;
+  border-color: #9b4dca;
+}
+
+@media (max-width: 768px) {
+  .filter-buttons {
+    flex-direction: column;
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .filter-button {
+    width: 100%;
+  }
+}
